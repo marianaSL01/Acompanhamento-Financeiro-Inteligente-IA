@@ -1,0 +1,63 @@
+#Prompt ChatGPT
+
+Você disse:
+utilize a tabela de dados contida no documento acima como base de conhecimento e me gere alguns insights dessa tabela de gastos 
+
+O ChatGPT disse:
+ChatGPT
+A tabela contém 44 registros distribuídos em 8 colunas com informações relacionadas a transações financeiras. Seguem os campos e exemplos de dados:
+
+Data: Datas dos registros (e.g., 2024-08-01).
+Mês: Mês numérico (e.g., 8 para agosto).
+Tipo: Tipo de transação, como ENTRADA ou SAÍDA.
+Categoria: Categoria de gasto ou receita (e.g., Renda Fixa, Alimentação).
+Descrição: Detalhes adicionais da transação (e.g., Salário mensal, Compras no supermercado).
+Valor: Valor da transação (e.g., 5000.0).
+Operação Bancária: Tipo de operação (e.g., Transferência, Débito Automático).
+Status: Status da transação (e.g., Recebido, Pendente, Pago).
+Vou agora gerar insights baseados nos dados, como totais por categoria, tipos de transações, e tendências ao longo do mês. ​​
+
+Insights Financeiros
+Resumo Financeiro Geral:
+
+Total de entradas: R$ 18.500,00
+Total de saídas: R$ 15.700,00
+Saldo final: R$ 2.800,00
+Gastos por Categoria:
+
+Principais categorias de despesas:
+Eletrônicos: R$ 3.000,00
+Alimentação: R$ 1.600,00
+Vestuário: R$ 1.500,00
+Serviços: R$ 1.400,00
+Utilidades Domésticas: R$ 1.250,00
+Operações Bancárias:
+
+Mais utilizadas:
+Transferência: 18 transações
+Débito Automático: 13 transações
+Cartão de Crédito: 13 transações
+Status das Transações:
+
+Pendente: 19 transações
+Pago: 19 transações
+Recebido: 6 transações
+Gastos Mensais:
+
+Agosto: R$ 11.380,00
+Setembro: R$ 11.550,00
+Outubro: R$ 11.270,00
+Se precisar de uma visualização gráfica ou outros insights específicos, é só pedir! 😊 ​​
+
+Você disse:
+aonde estão meus maiores gastos 
+O ChatGPT disse:
+ChatGPT
+Seus maiores gastos estão na categoria Eletrônicos, com um total de R$ 3.000,00. Aqui está uma lista com os maiores gastos por categoria em ordem decrescente:
+
+Eletrônicos: R$ 3.000,00
+Alimentação: R$ 1.600,00
+Vestuário: R$ 1.500,00
+Serviços: R$ 1.400,00
+Utilidades Domésticas: R$ 1.250,00
+Essas cinco categorias representam uma parte significativa das suas despesas.
