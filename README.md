@@ -1,6 +1,6 @@
 # Acompanhamento-Financeiro-Inteligente-IA
 
-Planilha Inteligente de acompanhamento financeiro 
+Planilha Inteligente para acompanhamento financeiro 
 
 ## Ferramentas utilizadas
 
